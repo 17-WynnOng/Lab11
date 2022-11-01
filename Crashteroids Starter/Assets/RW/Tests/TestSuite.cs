@@ -92,6 +92,5 @@ namespace Tests
             // 2
             Assert.AreEqual(game.score, 1);
         }
-
     }
 }
